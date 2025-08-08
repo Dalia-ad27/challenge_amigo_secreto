@@ -1,5 +1,5 @@
 # Amigo Secreto
-<img width="1125" height="785" alt="Captura de pantalla 2025-08-07 195105" src="https://github.com/user-attachments/assets/1d402ecd-944b-4220-87c6-40c15bedef5f" />
+<img width="1131" height="798" alt="Captura de pantalla 2025-08-07 201342" src="https://github.com/user-attachments/assets/c06a4f85-6f61-4589-a832-ef66f77dd74b" />
 
 ## Descripción
 
